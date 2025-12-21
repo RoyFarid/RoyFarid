@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there 🐺
+
+I'm Roy, a software engineering student.
+
+Where imagination meets code to build epic projects.
+
+**Fun Fact:**
+  - obsession >> talent
+  - Hobbies: Speedcubing, videogames, write stories, learn. 
 
 <!--
 **RoyFarid/RoyFarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,9 @@ Where imagination meets code to build epic projects.
 
 **Fun Fact:**
   - obsession >> talent
-  - Hobbies: Speedcubing, videogames, write stories, learn. 
+  - Hobbies: Speedcubing, videogames, write stories, learn.
+
+https://goni.up.railway.app/
 
 <!--
 **RoyFarid/RoyFarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

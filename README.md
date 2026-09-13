@@ -17,7 +17,7 @@ Convierte medidas corporales en moldes de costura listos para usar: ingresas tus
 - Exportación a **PDF a escala 1:1**, dividido automáticamente en hojas para imprimir en casa
 - Exportación a **DXF** para CAD industrial
 - Ajustes de holgura, costura y tipo de tela
-- Modo invitado — pruébalo sin crear cuenta
+- Modo invitado - pruébalo sin crear cuenta
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)

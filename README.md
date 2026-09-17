@@ -24,6 +24,20 @@ Convierte medidas corporales en moldes de costura listos para usar: ingresas tus
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
+### 🏷️ [FijaPrecio](https://github.com/RoyFarid/FijaPrecio) Inteligencia de precios y costeo para MYPES
+
+Cruza el costo real de tu producto (insumos, mano de obra, otros costos) contra el precio de mercado en vivo: le dices qué vendes, el sistema calcula cuánto te cuesta y compara contra lo que raspa en tiempo real de tiendas peruanas (Plaza Vea, Metro, Wong, Sodimac, Promart, Tottus), y te dice a cuánto vender y qué recortar para ser rentable.
+
+- **Radar de mercado en vivo**: scraping real de precios por producto, con historial y comparación directa contra tu costo
+- **Análisis de sensibilidad**: te dice exactamente qué insumo bajar (y a cuánto) para cerrar la brecha con tu precio objetivo, con las ofertas reales del mercado como opciones
+- **Categorías con especificaciones guiadas**: en vez de buscar por nombre libre, navegas rubro → categoría → tipo de producto y el sistema te pide los datos exactos (peso, material, color...) para armar una búsqueda de mercado precisa
+- **Multi-tenant real**: aislamiento de datos por organización (Row-Level Security en Postgres)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 <!--
 **RoyFarid/RoyFarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
